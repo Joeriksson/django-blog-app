@@ -1,4 +1,4 @@
-Django~=3.2.13
+Django~=3.2.14
 django-allauth==0.51.0
 django-contrib-comments~=1.9.2
 django-crispy-forms~=1.14.0
