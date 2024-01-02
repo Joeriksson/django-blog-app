@@ -8,7 +8,7 @@ django-lifecycle~=0.7.1
 django-markdownx~=3.0.1
 django-schema-graph~=1.2.0
 martor~=1.6.3
-Pillow~=9.1.1
+Pillow==10.2.0
 pip-tools~=6.6.2
 psycopg2-binary~=2.9.3
 Pygments~=2.7.4
